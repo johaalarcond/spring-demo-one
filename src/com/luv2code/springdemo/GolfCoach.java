@@ -8,4 +8,10 @@ public class GolfCoach implements Coach{
 		return "Practice your putting skills for 2 hours today";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
